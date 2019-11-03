@@ -1,0 +1,30 @@
+.prueba{
+    height: 600px !important;
+    margin-top: -250px;
+}
+.jumbo{
+    background-image: url("../Img/fondo.jpeg") !important;
+    padding: 150px !important;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.input-form:focus{
+    box-shadow: none;
+    border: 2px solid #17a2b8;
+
+}
+.btncolla{
+    border: 2px solid #ffffff !important;
+}
+.btncollai{
+    color: #ffffff !important;
+    background: #ffffff !important;
+}
+.inputbuscar{
+    background: transparent !important;
+    color: white !important;
+}
+.inputbuscar:focus{
+    border: 2px solid white !important;
+    box-shadow: none !important;
+}
